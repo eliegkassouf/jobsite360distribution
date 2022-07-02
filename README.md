@@ -48,5 +48,5 @@ You may have to grant installer and or application permission by navigating to *
 - It is safe to delete the GPU folder and log file.
 - I will fix this on the next release along with demo message.
 
-## Need/Wnat JobSite360 on a specific platform? 🙋‍♂️⁉️
+## Need/Want JobSite360 on a specific platform? 🙋‍♂️⁉️
 - Contact me at **elie@jobsite360.com** or **elie.kassouf@gmail.com** and let me know what platform you would like to see this app available for. 
