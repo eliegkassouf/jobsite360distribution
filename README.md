@@ -1,5 +1,3 @@
-# JobSite360 App for Mobile, Web, Vehicles and Desktop
-
 ## Why Download/Install/Bookmark JobSite360? 🤨
 ### Mobile 📱
 - Better performance when seperated from web browser.
