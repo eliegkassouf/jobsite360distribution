@@ -2,14 +2,14 @@
 
 ## Why Download/Install/Bookmark JobSite360? 🤨
 ### Mobile 📱
-- Application sometimes runs in it's own seperate environment and always run in fullscreen. 
-- You won't be able to tell if this is a native app or web app after adding to homescreen.
 - Better performance when seperated from web browser.
+- You won't be able to tell if this is a native app or web app.
+- Runs in fullscreen like a native app.
 
 ### MacOS/Windows 💻🖥
-- Launching the application this way without the web browser allows JobSite360 to run on it's own. 
-- Windows 7+ App includes it's own built Chrome Runtime Engine. 
-- MacOS uses the native WebView which is already decent. 
+- Launching the application in it's own environment allows it run independently. 
+- MacOS uses the native WebView which is already decent for performance.
+- Windows 7+ App includes it's own built Chrome Runtime Engine (WebKit) not Internet Explorer OR Edge!
 
 **Why Chrome Runtime/WebView (WebKit)?**
 - JobSite360 Application can run on many platforms because it's built using Angular V14. 
