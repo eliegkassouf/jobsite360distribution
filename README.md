@@ -11,9 +11,9 @@
 - Windows 7+ App includes it's own built Chrome Runtime Engine. 
 - MacOS uses the native WebView which is already decent. 
 
-**Why?**
+**Why Chrome Runtime/WebView (WebKit)?**
 - JobSite360 Application can run on many platforms because it's built using Angular V14. 
-- Once compiled for **production** it can be deployed virtually anywhere.
+- Once compiled for **production** it can be deployed virtually anywhere using an existing web browser framework.
 
 # How To Install/Access?
 
