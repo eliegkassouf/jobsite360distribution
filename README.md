@@ -6,6 +6,10 @@ Application sometimes runs in it's own seperate environment and always run in fu
 ### MacOS/Windows 💻🖥
 Launching the application this way without the web browser allows JobSite360 to run on it's own. Windows 7+ App includes it's own built Chrome Runtime Engine. MacOS uses the native WebView which is already decent. 
 
+**Why?**
+-JobSite360 Application can run on many platforms because it's built using Angular V14. 
+- Once compiled for **production** it can be deployed virtually anywhere.
+
 # How To Install/Access?
 
 ## Mobile 📱
