@@ -39,9 +39,11 @@
 - Run installer. 
 - Run JobSite360 Desktop in **Applications** folder 
 
-**NOTE:** 
-You may have to grant installer and or application permission by navigating to **System Preferences -> Security & Privacy -> General Tab -> Allow**
-
+### Grant installer and or application permission
+- Open **System Preferences**.
+- Click **Security & Privacy**
+- Click on **General** Tab.
+- Click **Allow** button at the bottom of panel.
 
 ## Windows 7+ Install Instructions 💻🖥
 
