@@ -38,6 +38,7 @@
 - Download **JobSite360 Desktop.pkg** from **macOS 10.12+** folder
 - Run installer. 
 - Run JobSite360 Desktop in **Applications** folder 
+
 **NOTE:** 
 You may have to grant installer and or application permission by navigating to **System Preferences -> Security & Privacy -> General Tab -> Allow**
 
