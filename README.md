@@ -3,7 +3,6 @@
 ## Why Download/Install/Bookmark JobSite360? 🤨
 ### Mobile 📱
 - Better performance when seperated from web browser.
-- You won't be able to tell if this is a native app or web app.
 - Runs in fullscreen like a native app.
 
 ### MacOS/Windows 💻🖥
