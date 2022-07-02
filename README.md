@@ -18,22 +18,22 @@
 # How To Install/Access?
 
 ## Mobile 📱
-- NORTH AMERICA URL: https://jobsite360app.herokuapp.com
-- EUROPE (GDPR) URL: https://jobsite360app-eu.herokuapp.com
+- NORTH AMERICA 🔗: https://jobsite360app.herokuapp.com
+- EUROPE (GDPR) 🔗: https://jobsite360app-eu.herokuapp.com
 - You will be prompted to save/bookmark the application right away. 
 - Follow instructions on screen and JobSite360 will appear on your homescreen.
 
 ## BMW Connected Drive, Mercedes, Volvo & Tesla Web Access 🚘
-- NORTH AMERICA URL: https://jobsite360desktop.herokuapp.com
-- EUROPE (GDPR) URL: https://jobsite360desktop-eu.herokuapp.com
+- NORTH AMERICA 🔗: https://jobsite360desktop.herokuapp.com
+- EUROPE (GDPR) 🔗: https://jobsite360desktop-eu.herokuapp.com
 
 ## All Other Vehicles 🚖
-- NORTH AMERICA URL: https://jobsite360app.herokuapp.com
-- EUROPE (GDPR) URL: https://jobsite360app-eu.herokuapp.com
+- NORTH AMERICA 🔗: https://jobsite360app.herokuapp.com
+- EUROPE (GDPR) 🔗: https://jobsite360app-eu.herokuapp.com
 
 ## Web Access (Safari, Firefox, Edge, Chrome,..) 🌎
-- NORTH AMERICA URL: https://jobsite360app.herokuapp.com
-- EUROPE (GDPR) URL: https://jobsite360app-eu.herokuapp.com
+- NORTH AMERICA 🔗: https://jobsite360app.herokuapp.com
+- EUROPE (GDPR) 🔗: https://jobsite360app-eu.herokuapp.com
 
 ## MacOS 10.12+ Intall Instructions 💻🖥
 - Download **JobSite360 Desktop.pkg** from **macOS 10.12+** folder
