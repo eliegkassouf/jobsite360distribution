@@ -1,9 +1,9 @@
-## Why Download/Install/Bookmark JobSite360? 🤨
-### Mobile 📱
+# Why Download/Install/Bookmark JobSite360? 🤨
+## Mobile 📱
 - Better performance when seperated from web browser.
 - Runs in fullscreen like a native app.
 
-### MacOS/Windows 💻🖥
+## MacOS/Windows 💻🖥
 - Launching the application in it's own environment allows it run independently. 
 - MacOS uses the native WebView which is already decent for performance.
 - Windows 7+ App includes it's own built Chrome Runtime Engine (WebKit) not Internet Explorer OR Edge!
