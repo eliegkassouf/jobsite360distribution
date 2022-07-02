@@ -37,9 +37,9 @@
 - Run installer. 
 - Run JobSite360 Desktop in **Applications** folder 
 
-![Error Image](https://github.com/eliegkassouf/jobsite360distribution/screenshots/1.png)
+![Error Image](https://github.com/eliegkassouf/jobsite360distribution/blob/master/screenshots/1.png)
 
-![Allow Image](https://github.com/eliegkassouf/jobsite360distribution/screenshots/2.png)
+![Allow Image](https://github.com/eliegkassouf/jobsite360distribution/blob/master/screenshots/2.png)
 
 ### Grant installer and or application permission
 - Open **System Preferences**.
