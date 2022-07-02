@@ -1,4 +1,4 @@
-# JobSite360 Desktop App
+# JobSite360 App for Web, Vehicles and Desktop
 
 ## BMW Connected Drive, Mercedes, Volvo & Tesla Web Access
 - NORTH AMERICA URL: https://jobsite360desktop.herokuapp.com
