@@ -41,7 +41,7 @@
 - Open **System Preferences**.
 - Click **Security & Privacy**
 - Click on **General** Tab.
-- Click **Allow** or **Open anyway** button at the bottom of panel.
+- Click **Open Anyway** button at the bottom of panel.
 
 ![Error Image](https://github.com/eliegkassouf/jobsite360distribution/blob/master/screenshots/1.png)
 
