@@ -37,16 +37,6 @@
 - Run installer. 
 - Run JobSite360 Desktop in **Applications** folder 
 
-### Grant installer and or application permission
-- Open **System Preferences**.
-- Click **Security & Privacy**
-- Click on **General** Tab.
-- Click **Open Anyway** button at the bottom of panel.
-
-![Error Image](https://github.com/eliegkassouf/jobsite360distribution/blob/master/screenshots/1.png)
-
-![Allow Image](https://github.com/eliegkassouf/jobsite360distribution/blob/master/screenshots/2.png)
-
 ## Windows 7+ Install Instructions 💻🖥
 
 ### Portable
