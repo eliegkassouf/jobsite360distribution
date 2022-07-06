@@ -32,10 +32,9 @@
 - NORTH AMERICA 🔗: https://jobsite360app.herokuapp.com
 - EUROPE (GDPR) 🔗: https://jobsite360app-eu.herokuapp.com
 
-## MacOS 10.12+ Intall Instructions 💻🖥
-- Download [JobSite360-Desktop-Signed.pkg](https://github.com/eliegkassouf/jobsite360distribution/raw/master/macOS_10_12_over/JobSite360-Desktop-Signed.pkg) from **macOS_10_12_over** folder
-- Run installer. 
-- Run JobSite360 Desktop in **Applications** folder 
+## MacOS 11.00+ Intall Instructions 💻🖥
+- Download [JobSite360_Desktop.zip](https://github.com/eliegkassouf/jobsite360distribution/raw/master/macOS_11_over/JobSite360_Desktop.zip) from **macOS_11_over** folder and extract to **Applications** folder on your system.
+- Run JobSite360 Desktop in **Applications** folder or my searching in spotlight (CMD+Space).
 
 ## Windows 7+ Install Instructions 💻🖥
 
