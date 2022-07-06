@@ -33,7 +33,7 @@
 - EUROPE (GDPR) 🔗: https://jobsite360app-eu.herokuapp.com
 
 ## MacOS 10.12+ Intall Instructions 💻🖥
-- Download [JobSite360-Desktop-Signed.pkg](https://github.com/eliegkassouf/jobsite360distribution/blob/master/macOS_10_12_over/JobSite360-Desktop-Signed.pkg) from **macOS_10_12_over** folder
+- Download [JobSite360-Desktop-Signed.pkg](https://github.com/eliegkassouf/jobsite360distribution/raw/master/macOS_10_12_over/JobSite360-Desktop-Signed.pkg) from **macOS_10_12_over** folder
 - Run installer. 
 - Run JobSite360 Desktop in **Applications** folder 
 
@@ -50,11 +50,11 @@
 ## Windows 7+ Install Instructions 💻🖥
 
 ### Portable
-- Download [release-portable.zip](https://github.com/eliegkassouf/jobsite360distribution/blob/master/windows_7_over/release-portable.zip) from **windows_7_over** folder
+- Download [release-portable.zip](https://github.com/eliegkassouf/jobsite360distribution/raw/master/windows_7_over/release-portable.zip) from **windows_7_over** folder
 - Extract anywhere and run **JobSite360.exe**
 
 ### InstallShield
-- Download [setup.exe](https://github.com/eliegkassouf/jobsite360distribution/blob/master/windows_7_over/setup.exe) from **windows_7_over** folder
+- Download [setup.exe](https://github.com/eliegkassouf/jobsite360distribution/raw/master/windows_7_over/setup.exe) from **windows_7_over** folder
 - Run installer (Sorry demo version warning will apear still trying this out).
 - **JobSite360 Desktop** will be on the desktop when installation is finished.
 - There is a bug where a GPU folder and log file are visible on the desktop. 
