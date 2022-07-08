@@ -1,4 +1,12 @@
 # Why Download/Install/Bookmark JobSite360? 🤨
+
+## Why?
+- JobSite360 is a Web Application first and that means no app updates! 
+- As soon as we add new features; You get them instantly. 
+- Are there any downsides to this? - No, you may see the screen go white for a few seconds or you may be logged out because new features require you log in again. 
+- When will we update? - We will try to update when people are not using the system (middle of the night).
+- **99.99%** uptime is guranteed.  
+
 ## Mobile 📱
 - Better performance when seperated from web browser.
 - Runs in fullscreen like a native app.
