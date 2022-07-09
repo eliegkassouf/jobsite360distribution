@@ -6,8 +6,6 @@
 - When will we update? - We will try to update when people are not using the system (middle of the night).
 - **99.99%** uptime is guranteed.  
 
-# How To Download/Install/Bookmark
-
 ## Mobile 📱
 - Better performance when seperated from web browser.
 - Runs in fullscreen like a native app.
