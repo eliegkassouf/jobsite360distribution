@@ -1,11 +1,12 @@
 # Why Download/Install/Bookmark JobSite360? 🤨
 
-## Why?
 - JobSite360 is a Web Application first and that means no app updates! Download the app once and go!
 - As soon as we add new features; You get them instantly. 
 - Are there any downsides to this? - No, you may see the screen go white for a few seconds or you may be logged out because new features require you log in again. 
 - When will we update? - We will try to update when people are not using the system (middle of the night).
 - **99.99%** uptime is guranteed.  
+
+# How To Download/Install/Bookmark
 
 ## Mobile 📱
 - Better performance when seperated from web browser.
@@ -20,9 +21,9 @@
 - JobSite360 Application can run on many platforms because it's built using Angular V14. 
 - Once compiled for **production** it can be deployed virtually anywhere using an existing web browser framework.
 
-# How To Install/Access?
+# How To Access/Install?
 
-## Mobile 📱
+## Mobile 📱 / Web Access (Safari, Firefox, Edge, Chrome,..) 🌎
 - NORTH AMERICA 🔗: https://jobsite360app.herokuapp.com
 - EUROPE (GDPR) 🔗: https://jobsite360app-eu.herokuapp.com
 - You will be prompted to save/bookmark the application right away. 
@@ -32,10 +33,6 @@
 - Open one one of the links below in your vehicles web browser (Not all cars supported yet).
 - NORTH AMERICA 🔗: https://jobsite360vehicle.herokuapp.com
 - EUROPE (GDPR) 🔗: https://jobsite360vehicle-eu.herokuapp.com
-
-## Web Access (Safari, Firefox, Edge, Chrome,..) 🌎
-- NORTH AMERICA 🔗: https://jobsite360app.herokuapp.com
-- EUROPE (GDPR) 🔗: https://jobsite360app-eu.herokuapp.com
 
 ## MacOS 11.00+ Intall Instructions 💻🖥
 - Download [JobSite360_Desktop.zip](https://github.com/eliegkassouf/jobsite360distribution/raw/master/macOS_11_over/JobSite360_Desktop.zip) from **macOS_11_over** folder and extract to **Applications** folder on your system.
