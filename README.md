@@ -29,10 +29,6 @@
 - Follow instructions on screen and JobSite360 will appear on your homescreen.
 
 ## BMW Connected Drive, Mercedes, Volvo & Tesla Web Access 🚘
-- NORTH AMERICA 🔗: https://jobsite360desktop.herokuapp.com
-- EUROPE (GDPR) 🔗: https://jobsite360desktop-eu.herokuapp.com
-
-## All Other Vehicles 🚖
 - NORTH AMERICA 🔗: https://jobsite360vehicle.herokuapp.com
 - EUROPE (GDPR) 🔗: https://jobsite360vehicle-eu.herokuapp.com
 
