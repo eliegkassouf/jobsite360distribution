@@ -33,8 +33,8 @@
 - EUROPE (GDPR) 🔗: https://jobsite360desktop-eu.herokuapp.com
 
 ## All Other Vehicles 🚖
-- NORTH AMERICA 🔗: https://jobsite360app.herokuapp.com
-- EUROPE (GDPR) 🔗: https://jobsite360app-eu.herokuapp.com
+- NORTH AMERICA 🔗: https://jobsite360vehicle.herokuapp.com
+- EUROPE (GDPR) 🔗: https://jobsite360vehicle-eu.herokuapp.com
 
 ## Web Access (Safari, Firefox, Edge, Chrome,..) 🌎
 - NORTH AMERICA 🔗: https://jobsite360app.herokuapp.com
